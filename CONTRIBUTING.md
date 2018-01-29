@@ -8,7 +8,7 @@ Before any contributing, read the [The Revas Project: Code of Conduct](https://g
 
 ## Issues
 
-You can use the GitHub Issues to submit a **bug issue** or a **enhancement proposal**. Issues are the places where contributors can **discuss** and try to find a solution together. This lets the contributors reach an **agreement** on proposals before putting significant effort into it.
+You can use the GitHub Issues to submit a **workflow issue**, a **bug issue** or a **enhancement proposal**. Issues are the places where contributors can **discuss** and try to find a solution together. This lets the contributors reach an **agreement** on proposals before putting significant effort into it.
 
 If you want to contribute you can start with an **existing issue**. You can also notify a bug or propose an enhancement, but please make sure the issue does not already exist.
 
